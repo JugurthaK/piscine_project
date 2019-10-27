@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include <assert.h>
+#include "{{header}}"
+int main(void)
+{
+
+}
