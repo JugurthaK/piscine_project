@@ -5,7 +5,7 @@ This script is creating needed files to start a simple C project quickly.
 **Node is needed to execute it, and you should install some dependencies with `npm i`**
 
 ## How to use it
-`your_alias --dir "int-sum" [--file "int_sum"] --sign "int sum(int a, int b)" [--out "my_binary_file"]"`
+`your_alias --dir "int-sum" [--file "int_sum"] --sign "int sum(int a, int b)" [--out "my_binary_file"]`
 
 **Your filename shouldnt end with `.c`, it will be done by the script**
 
