@@ -5,7 +5,7 @@
   "main": "piscine.js",
   "dependencies": {
     "handlebars": "^4.4.5",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.2"
   },
   "devDependencies": {},
   "scripts": {
